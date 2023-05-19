@@ -1,0 +1,43 @@
+.Dark {
+  background-color: rgba(0, 0, 0, 0.959);
+  /* start navpar pages html css java */
+  /* ends navpar pages html css java */
+  /* start navparsing */
+  /* ends navparsing */
+  /* start sing in  */
+  /*ends sing in*/
+  /* start sing up */
+  /* ends sing up */
+}
+.Dark .navpar-pages {
+  background-color: rgb(3, 1, 17);
+  border: 1px solid white;
+}
+.Dark .navpar-pages .navpar .menue {
+  background-color: black;
+}
+.Dark .navpar-pages .navpar .menue div p a {
+  color: white;
+}
+.Dark .navpar-pages .navpar .but-dark {
+  box-shadow: 5px 5px 5px 5px beige !important;
+}
+.Dark .style-navsin {
+  background-color: black;
+  border-bottom: 2px solid white;
+}
+.Dark .style-navsin .mode {
+  background-color: white;
+}
+.Dark .style-navsin .mode p {
+  color: black;
+}
+.Dark .style-navsin .mode:hover {
+  background-color: aqua !important;
+}
+.Dark .style-singin .absolute-form form h2 {
+  color: white;
+}
+.Dark .style-singup .absolute-form form h2 {
+  color: white;
+}/*# sourceMappingURL=Styleapp.css.map */

@@ -1,0 +1,78 @@
+.Dark 
+{
+    background-color:rgba(0, 0, 0, 0.959);
+/* start navpar pages html css java */
+.navpar-pages
+{
+    background-color:rgb(3, 1, 17);
+    border:1px solid white;
+    .navpar{
+    .menue
+    {
+        background-color:black;
+        & div 
+        {
+            p {
+                a{
+                    color:white;
+                }
+            }
+        }
+    }
+    .but-dark
+    {
+        box-shadow: 5px 5px 5px 5px beige !important;
+    }
+}
+} 
+/* ends navpar pages html css java */ 
+/* start navparsing */
+.style-navsin
+{background-color:black;
+    border-bottom:2px solid white;
+    .mode
+    {
+        background-color:white;
+        & p{
+            color:black;
+            
+        }
+        &:hover{
+            background-color:aqua !important;
+        }
+    }
+
+}
+/* ends navparsing */
+
+/* start sing in  */
+.style-singin
+{
+.absolute-form
+{
+    & form 
+    {
+       & h2 
+        {
+            color:white;
+        }
+    }
+}
+}
+/*ends sing in*/
+/* start sing up */
+.style-singup
+{
+    .absolute-form
+    {
+        & form 
+        {
+           & h2 
+            {
+                color:white;
+            }
+        }
+    }
+}
+/* ends sing up */
+}
